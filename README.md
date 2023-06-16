@@ -31,7 +31,7 @@ An embeddable script that makes source-code snippets in HTML prettier.
 
  * Include the script tag below in your document:
 ```HTML
-<script src="https://cdn.jsdelivr.net/gh/google/code-prettify@master/loader/run_prettify.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/leana8959/code-prettify@master/loader/run_prettify.js"></script>
 ```
  * See [Getting Started](docs/getting_started.md) to configure that URL with
    options you need.
